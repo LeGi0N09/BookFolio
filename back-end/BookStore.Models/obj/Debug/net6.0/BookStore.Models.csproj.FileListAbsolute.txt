@@ -1,0 +1,14 @@
+C:\tatvaproject\bookstore1\BookStore.Models\bin\Debug\net6.0\BookStore.Models.deps.json
+C:\tatvaproject\bookstore1\BookStore.Models\bin\Debug\net6.0\BookStore.Models.runtimeconfig.json
+C:\tatvaproject\bookstore1\BookStore.Models\bin\Debug\net6.0\BookStore.Models.dll
+C:\tatvaproject\bookstore1\BookStore.Models\bin\Debug\net6.0\BookStore.Models.pdb
+C:\tatvaproject\bookstore1\BookStore.Models\obj\Debug\net6.0\BookStore.Models.csproj.AssemblyReference.cache
+C:\tatvaproject\bookstore1\BookStore.Models\obj\Debug\net6.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\tatvaproject\bookstore1\BookStore.Models\obj\Debug\net6.0\BookStore.Models.AssemblyInfoInputs.cache
+C:\tatvaproject\bookstore1\BookStore.Models\obj\Debug\net6.0\BookStore.Models.AssemblyInfo.cs
+C:\tatvaproject\bookstore1\BookStore.Models\obj\Debug\net6.0\BookStore.Models.csproj.CoreCompileInputs.cache
+C:\tatvaproject\bookstore1\BookStore.Models\obj\Debug\net6.0\BookStore.Models.dll
+C:\tatvaproject\bookstore1\BookStore.Models\obj\Debug\net6.0\refint\BookStore.Models.dll
+C:\tatvaproject\bookstore1\BookStore.Models\obj\Debug\net6.0\BookStore.Models.pdb
+C:\tatvaproject\bookstore1\BookStore.Models\obj\Debug\net6.0\BookStore.Models.genruntimeconfig.cache
+C:\tatvaproject\bookstore1\BookStore.Models\obj\Debug\net6.0\ref\BookStore.Models.dll
