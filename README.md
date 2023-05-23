@@ -22,14 +22,14 @@ A web application for buying and selling books online. Book-E-Sale provides a pl
 
 ## Frontend Technology
 
-- TypeScript
-- HTML
-- CSS
+- **TypeScript**
+- **HTML**
+- **CSS**
 
 ## Backend Technology
 
-- C#
-- ASP.NET MVC
+- **C#**
+- **ASP.NET MVC**
 
 ## Installation
 
