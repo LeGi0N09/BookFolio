@@ -63,7 +63,7 @@ This project is licensed under the [MIT License](https://github.com/LeGi0N09/Boo
 
 If you have any questions or need assistance, you can reach out to the project maintainer:
 
-👤 **[Your Name](https://github.com/LeGi0N09)**
+👤 **[Priyansh Modi](https://github.com/LeGi0N09)**
 
 ## Acknowledgements
 
