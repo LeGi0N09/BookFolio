@@ -70,11 +70,6 @@ If you have any questions or need assistance, you can reach out to the project m
 - This project was inspired by the need for an online platform to facilitate book buying and selling.
 - Special thanks to all the contributors and developers who have helped in building this application.
 
-## Screenshots
-
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-![Screenshot 3](/screenshots/screenshot3.png)
 
 ## Emoji Key
 
