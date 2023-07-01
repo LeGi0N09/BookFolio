@@ -1,11 +1,11 @@
-# Book-E-Sale
+# BookFolio
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/LeGi0N09/Book-E-Sale-master/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/LeGi0N09/Book-E-Sale-master)](https://github.com/LeGi0N09/Book-E-Sale-master/issues)
-[![GitHub forks](https://img.shields.io/github/forks/LeGi0N09/Book-E-Sale-master)](https://github.com/LeGi0N09/Book-E-Sale-master/network)
-[![GitHub stars](https://img.shields.io/github/stars/LeGi0N09/Book-E-Sale-master)](https://github.com/LeGi0N09/Book-E-Sale-master/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/LeGi0N09/BookFolio/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/LeGi0N09/BookFolio)](https://github.com/LeGi0N09/BookFolior/issues)
+[![GitHub forks](https://img.shields.io/github/forks/LeGi0N09/BookFolio)](https://github.com/LeGi0N09/BookFolio/network)
+[![GitHub stars](https://img.shields.io/github/stars/LeGi0N09/BookFolio)](https://github.com/LeGi0N09/BookFolio/stargazers)
 
-A web application for buying and selling books online. Book-E-Sale provides a platform for users to list their books for sale and browse through available books for purchase.
+A web application for buying and selling books online. BookFolio provides a platform for users to list their books for sale and browse through available books for purchase.
 
 📚 📖 💰
 
@@ -35,21 +35,21 @@ A web application for buying and selling books online. Book-E-Sale provides a pl
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/LeGi0N09/Book-E-Sale-master.git
+   ``` shell
+   git clone https://github.com/LeGi0N09/BookFolio.git
    ```
 
-2. Open the solution file `Book-E-Sale.sln` in Visual Studio.
+2. Open the solution file `bookstore1.sln` in Visual Studio.
 
 3. Build the solution to restore dependencies and compile the project.
 
-4. Update the connection string in the `Web.config` file with your own database configuration.
+4. Update the connection string in the `Web.config` file with your database configuration.
 
 5. Run the application using IIS Express or your preferred development server.
 
 ## Configuration
 
-- Database connection string: Update the connection string in the `Web.config` file to point to your own database.
+- Database connection string: Update the connection string in the `Web.config` file to point to your database.
 
 ## Contributing
 
@@ -57,7 +57,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/LeGi0N09/Book-E-Sale-master/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/LeGi0N09/BookFolio/blob/master/LICENSE).
 
 ## Support
 
