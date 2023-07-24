@@ -1,13 +1,13 @@
-# BookFolio: Your Online Bookstore 📚📖💰
+# BookFolio: Your Online Bookstore 📚📖
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/LeGi0N09/BookFolio/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/LeGi0N09/BookFolio)](https://github.com/LeGi0N09/BookFolior/issues)
 [![GitHub forks](https://img.shields.io/github/forks/LeGi0N09/BookFolio)](https://github.com/LeGi0N09/BookFolio/network)
 [![GitHub stars](https://img.shields.io/github/stars/LeGi0N09/BookFolio)](https://github.com/LeGi0N09/BookFolio/stargazers)
 
-## Discover, Buy, and Sell Books with Ease 🌐📚💰
+## Discover, Buy, and Sell Books with Ease 🌐📚
 
-Welcome to BookFolio, a sophisticated web application designed to revolutionize your book buying and selling experience. Whether you're an avid reader or a book enthusiast looking to declutter your shelves, BookFolio provides the ideal platform to list and purchase books hassle-free.
+Welcome to BookFolio, a sophisticated web application designed to revolutionize your book-buying and selling experience. Whether you're an avid reader or a book enthusiast looking to declutter your shelves, BookFolio provides the ideal platform to list and purchase books hassle-free.
 
 ## Features You'll Love ❤️
 
