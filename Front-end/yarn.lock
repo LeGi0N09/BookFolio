@@ -5706,8 +5706,8 @@ no-case@^3.0.4:
     tslib "^2.0.3"
 
 node-forge@^1.2.0:
-  version "1.2.1"
-  resolved "https://registry.npmjs.org/node-forge/-/node-forge-1.2.1.tgz"
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/node-forge/-/node-forge-1.4.0.tgz#1c7b7d8bdc2d078739f58287d589d903a11b2fc2"
 
 node-int64@^0.4.0:
   version "0.4.0"
